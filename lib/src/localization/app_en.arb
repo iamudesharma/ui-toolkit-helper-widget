@@ -1,0 +1,6 @@
+{
+  "appTitle": "ui_toolkit_helper",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
